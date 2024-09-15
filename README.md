@@ -21,5 +21,5 @@
 Pequeno gafanhoto em jornada.. Ensinar para apreender, aprender para evoluir 👾
 
 <div style="display: flex; align-item: center; justify-content: center; width: 300px; height: 100px">
-    <img src="https://github.com/GabrielAacar/GabrielAacar/blob/main/caricatura.jpg">
+    <img src="https://github.com/GabrielAacar/GabrielAacar/blob/main/caricatura.jpg" width="300" height="300">
 </div>
