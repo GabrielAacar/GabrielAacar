@@ -1,8 +1,25 @@
-<h3><strong>Olá, Seja Bem Vindo!</Strong><h3>
-  <hr>
-  <h4> Me chamo, Gabriel! </h4>
-  <p1>Formado em Engenharia Mecânica, descobrindo a paixão pela programação, e design gráfico.</p1><br><br>
-  <p1> Atualmente me considero estudante de programação. Mas em breve pretendo estar definitivamente na área.</p1><br><br>
-  
-  <p1>Atualmente estou trabalhando um projeto de WEBSITE próprio <p1>
-  <p2> Em breve postarei meus primeiros projetos para vocês</p2>
+### Olá! Eu sou o Gabriel! ✋🏽
+
+@pydawn_ |
+@gabriel_aacar
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pydawan_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel.aacar)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAacar&show_icons=true&bg_color=1b1e25&text_color=13be89&icon_color=ff9b63&title_color=ff9b63)
+
+## Tecnologias que uso no meu dia
+
+<div style='display: inline_block'> <br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    
+</div></br>
+
+Pequeno gafanhoto em jornada.. Ensinar para apreender, aprender para evoluir 👾
+
+<div style="display: flex; align-item: center; justify-content: center; width: 300px; height: 100px">
+    <img src="https://github.com/GabrielAacar/GabrielAacar/blob/main/caricatura.jpg">
+</div>
