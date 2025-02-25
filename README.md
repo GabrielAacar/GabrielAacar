@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel! ✋🏽
 
-@pydawn_ |
+@pydawan_ |
 @gabriel_aacar
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pydawan_)
